@@ -1,2 +1,2 @@
 # TDT4171
-All of my exercises from Artificial Intelligence Methods 2021
+The coding-parts of my exercises from Artificial Intelligence Methods 2021
